@@ -49,9 +49,6 @@ python game.py
 - OpenGL primitives (GL_POINTS)
 - Event-driven programming with GLUT
 
-## 📸 Screenshots
-*(Add screenshots here if you want)*
-
 ## 📄 License
 This project is for educational purposes.
 
